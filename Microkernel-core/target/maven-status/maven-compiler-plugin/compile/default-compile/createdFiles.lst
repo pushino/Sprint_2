@@ -1,0 +1,5 @@
+co\unicauca\microkernel\business\ProductService.class
+co\unicauca\microkernel\presentation\GUISendProduct.class
+co\unicauca\microkernel\plugin\manager\PluginManager.class
+co\unicauca\microkernel\infra\Publisher.class
+co\unicauca\microkernel\presentation\GUISendProduct$1.class
